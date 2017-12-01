@@ -1,6 +1,3 @@
-# Project1FlatEarthSports
+# Flat Earth Sports
 
-Zach Miller
-Umair Asif
-Tony Kuang
-Aaron Patrzykont
+The site for all of your fantasy football conspiracies and theories.
